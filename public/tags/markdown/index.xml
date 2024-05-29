@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
     <title>Markdown | Mostafa</title>
-=======
-    <title>Markdown | Hugo Academic CV Theme</title>
->>>>>>> 2d7f90c29d6dba7c7990ec369fc4f3a530f3ad46
     <link>http://localhost:1313/tags/markdown/</link>
       <atom:link href="http://localhost:1313/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <description>Markdown</description>
@@ -90,11 +86,7 @@
 
 
 
-<<<<<<< HEAD
 &lt;div id=&#34;chart-675948312&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
-=======
-&lt;div id=&#34;chart-247385691&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
->>>>>>> 2d7f90c29d6dba7c7990ec369fc4f3a530f3ad46
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -112,11 +104,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-<<<<<<< HEAD
         window.Plotly.newPlot(&#39;chart-675948312&#39;, chart.data, chart.layout, {responsive: true});
-=======
-        window.Plotly.newPlot(&#39;chart-247385691&#39;, chart.data, chart.layout, {responsive: true});
->>>>>>> 2d7f90c29d6dba7c7990ec369fc4f3a530f3ad46
       });
     }, 500 );
   })();
