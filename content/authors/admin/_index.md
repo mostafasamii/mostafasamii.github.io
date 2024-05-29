@@ -3,11 +3,7 @@
 title: Mostafa
 
 # Name pronunciation (optional)
-<<<<<<< HEAD
 name_pronunciation: ''
-=======
-name_pronunciation: Mostafa Samy
->>>>>>> 2d7f90c29d6dba7c7990ec369fc4f3a530f3ad46
 
 # Full name (for SEO)
 first_name: Mostafa
@@ -35,7 +31,6 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-<<<<<<< HEAD
     url: 'mailto:mostafasamyibrahem@gmail.com'
     label: E-mail Me
   - icon: brands/github
@@ -47,25 +42,12 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=nX1CwY0AAAAJ&hl=en
     label: Google Scholar
-=======
-    url: 'mostafasamyibrahem@gmail.com'
-    label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/mostafasamii
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/mostafa-samy-510472138/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  # - icon: academicons/orcid
-  #  url: https://orcid.org/
->>>>>>> 2d7f90c29d6dba7c7990ec369fc4f3a530f3ad46
 
 interests:
   - Artificial Intelligence
   - Information Retrieval
 
 education:
-<<<<<<< HEAD
   - area: MSc Artificial Intelligence
     institution: Ain Shams University
     date_start: 2023-02-01
@@ -83,22 +65,6 @@ education:
     institution: Ain Shams University
     date_start: 2017-07-01
     date_end: 2020-07-01
-=======
-  - area: Msc Artificial Intelligence
-    institution: Ain Shams University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-
-  - area: BSc Computer Science
-    University: Ain Shams University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
->>>>>>> 2d7f90c29d6dba7c7990ec369fc4f3a530f3ad46
     summary: |
       Courses:
       - Machine Learning & Artificial Intelligence
