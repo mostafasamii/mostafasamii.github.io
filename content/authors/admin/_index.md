@@ -143,8 +143,4 @@ awards:
 
 ## About Me
 
-<<<<<<< HEAD
 Mostafa Samy is an Artificial Intelligence Engineer at Cyshield. My research interests include Speech and Natural Language Processing and Computer Vision.
-=======
-Mostafa Samy is AI Engineer I at Cyshield. Currently doing my Masters in AI, rich experience in diverse areas of AI, strong communication skills, also I am passionate about using AI to solve challenging business problems and create value. I design and build cutting-edge Generative AI and ML solutions to solve diverse business problems across industries.
->>>>>>> 2d7f90c29d6dba7c7990ec369fc4f3a530f3ad46
