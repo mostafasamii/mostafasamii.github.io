@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: Mostafa
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Shiung Wu
@@ -20,93 +20,70 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: AI Engineer I
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Cyshield
+    url: https://cyshield.com/home
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:mostafasamyibrahem@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/mostafasamii
+    label: Github
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/mostafa-samy-510472138/
+    label: LinkedIn
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=nX1CwY0AAAAJ&hl=en
+    label: Google Scholar
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  - area: MSc Artificial Intelligence
+    institution: Ain Shams University
+    date_start: 2023-02-01
+    date_end: ''
+    # summary: |
+      # Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    summary : |
+      Thesis on Text to image synthesis. Supervised by Prof. Mohamed Fahmy Tolba.
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    # button:
+      # text: 'Read Thesis'
+      # url: 'https://example.com'
+ 
+  - area: BSc Computer Science
+    institution: Ain Shams University
+    date_start: 2017-07-01
+    date_end: 2020-07-01
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Courses:
+      - Machine Learning & Artificial Intelligence
+      - Data Structure & Algorithms
+      - Software Engineering & Databases
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - position: AI Engineer I 
+    company_name: Cyshield
+    company_url: 'https://cyshield.com/'
+    company_logo: 'assets/media/icons/cyshield_logo.svg'
+    date_start: 2022-07-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+      Responsibilities:
+      - Develop and enhance our tools, stay updated with latest AI technologies, and integrating them into our processes with a focus on quality and on-time delivery.
+      - Collect and clean large datasets for machine learning projects, explore data to identify patterns, anomalies, and potential insights, and Pre-process data, including feature engineering and normalization.
+      - Assist in deploying AI models into production environments, ensuring seamless integration and functionality within the company's infrastructure.
+      
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -128,11 +105,11 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Gym
         description: ''
-        percent: 60
+        percent: 90
         icon: person-simple-walk
-      - name: Cats
+      - name: Calligraphy
         description: ''
         percent: 100
         icon: cat
@@ -142,11 +119,11 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Arabic
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: English
+    percent: 90
+  - name: German
     percent: 25
 
 # Awards.
@@ -154,33 +131,16 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+  - title: Deep Learning with PyTorch Generative Adversarial Network
+    url: https://www.coursera.org/projects/deep-learning-with-pytorch-generative-adversarial-network
+    date: ''
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      I studied the foundational concept of neural networks and deep learning. Implementing a Deep Convolutional Generative Adversarial Network (DCGAN) using PyTorch. Creating and training a generator model to produce images. Creating and training a discriminator model to distinguish between real and fake images. Apply these models specifically to generate and evaluate images of handwritten digits.
+
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Mostafa Samy is an Artificial Intelligence Engineer at Cyshield. My research interests include Speech and Natural Language Processing and Computer Vision.
