@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>Second Brain | Mostafa</title>
+=======
+    <title>Second Brain | Hugo Academic CV Theme</title>
+>>>>>>> 2d7f90c29d6dba7c7990ec369fc4f3a530f3ad46
     <link>http://localhost:1313/tags/second-brain/</link>
       <atom:link href="http://localhost:1313/tags/second-brain/index.xml" rel="self" type="application/rss+xml" />
     <description>Second Brain</description>
