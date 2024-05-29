@@ -6,11 +6,7 @@
 # Website name
 title: Mostafa
 # Website URL
-<<<<<<< HEAD
 baseURL: 'https://mostafasamii.github.io'
-=======
-baseURL: 'https://mostafasamii.github.io/'
->>>>>>> 2d7f90c29d6dba7c7990ec369fc4f3a530f3ad46
 
 ############################
 ## LANGUAGE
