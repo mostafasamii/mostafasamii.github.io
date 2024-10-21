@@ -6,7 +6,8 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  color: cyan
+# Colors available blue, cyan, emerald, green, indigo, purple, red, rose, sky, teal, zinc
 
 # SEO
 marketing:
@@ -35,7 +36,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Mostafa Samy"
 
 # Site footer
 footer:
