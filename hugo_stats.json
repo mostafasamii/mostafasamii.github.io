@@ -2,6 +2,7 @@
   "htmlElements": {
     "tags": [
       "--",
+      "?xml",
       "a",
       "article",
       "aside",
@@ -587,7 +588,7 @@
       "TableOfContents",
       "about-me",
       "callouts",
-      "chart-174526938",
+      "chart-173859642",
       "charts",
       "code",
       "crowd-funded-open-source-software",
@@ -639,7 +640,8 @@
       "themes",
       "todo-lists",
       "top",
-      "video"
+      "video",
+      "visual"
     ]
   }
 }

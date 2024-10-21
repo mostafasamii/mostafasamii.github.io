@@ -43,8 +43,8 @@ profiles:
     url: https://www.linkedin.com/in/mostafa-samy-510472138/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=nX1CwY0AAAAJ&hl=en
-  # - icon: academicons/orcid
-  #   url: https://orcid.org/
+  # - icon: custom/codeforces
+    # url: https://orcid.org/
 
 interests:
   - Natural Language Processing
