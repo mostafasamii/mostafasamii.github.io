@@ -13,27 +13,27 @@
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>http://localhost:1313/project/pandas/</link>
+      <title>AI Assistant</title>
+      <link>http://localhost:1313/project/ai-assistant/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/project/ai-assistant/</guid>
+      <description>&lt;p&gt;Developing a versatile assistant that uses LLMs with RAG, TTS, and ASR to handle pre-defined tasks. LLM-based conversational agent, with RAG to seamlessly retrieve and integrate relevant info. from external sources. TTS &amp;amp; ASR, allowed the assistant to engage with users with it through both voice and text, enabling natural, multimodal interaction experience.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>PyTorch</title>
-      <link>http://localhost:1313/project/pytorch/</link>
+      <title>Automatic Speech Recognition</title>
+      <link>http://localhost:1313/project/asr/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/project/asr/</guid>
+      <description>&lt;p&gt;Building an ASR system using Whisper &amp;amp; Seamless-M4T, with the goal of creating a robust ASR system that could perform well even in low-resource settings, involving techniques like PEFT and model pruning. Also applied techniques ranging from data preprocessing, model optimization, real-time performance, and deploying the model on AWS. Achieving a solution with improved accuracy than the original model,  with reduction of computation requirements.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>scikit-learn</title>
-      <link>http://localhost:1313/project/scikit/</link>
+      <title>FinTech</title>
+      <link>http://localhost:1313/project/fintech/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/project/fintech/</guid>
+      <description>&lt;p&gt;Analyzing and forecasting currency movement. Integrating several key components: Fundamental analysis (macroeconomics data e.g. GPD, inflation rates, etc.) to assess the drivers of valuation, Technical Analysis (EMA, RSI, etc.) to identify trends, Aspect-based Sentiment analysis (to get the public sentiment), Time Series forecasting (Applying advanced time series techniques to predict future movements based on the collected data). Utilizing LLMs with RAG to engage with users.&lt;/p&gt;</description>
     </item>
     
   </channel>

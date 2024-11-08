@@ -28,7 +28,7 @@ organizations:
     url: https://cyshield.com/
     
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+# Need to use another icon? Si mply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
     url: 'mostafasamyibrahem@gmail.com'
